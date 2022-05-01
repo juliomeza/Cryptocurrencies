@@ -1,4 +1,4 @@
-Card_Member,Age,Annual_Income,Spending_Score
+Card Member,Age,Annual Income,Spending Score (1-100)
 1,19.0,15.0,39.0
 1,21.0,15.0,81.0
 0,20.0,16.0,6.0
